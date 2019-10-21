@@ -1,0 +1,14 @@
+title: Mr. Robot
+email: lucasarieiv@gmail.com
+description: Este é um blog teste, que estou desenvolvendo com Jekyll.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+comments: true
+theme: minima
+plugins:
+  - jekyll-feed
+permalink: /:year/:month/:day/:title
