@@ -1,8 +1,8 @@
 title: Mr. Robot
 email: lucasarieiv@gmail.com
 description: Este é um blog teste, que estou desenvolvendo com Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lucasarieiv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "blog-test" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
